@@ -7,7 +7,7 @@ The focus is on building a **cloud-native, production-oriented cognitive system*
 
 ---
 
-## 🔍 Problem Overview
+## Problem Overview
 
 Digital onboarding processes often require:
 
@@ -20,7 +20,7 @@ This project demonstrates how these challenges can be addressed using **Azure Co
 
 ---
 
-## 🧠 Solution Architecture
+## Solution Architecture
 
 The pipeline follows these steps:
 
@@ -48,7 +48,7 @@ The pipeline follows these steps:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Cloud & Cognitive Services
 - Azure Blob Storage  
